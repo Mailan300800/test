@@ -1,0 +1,97 @@
+[
+  {
+    "place": "Hà Nội",
+    "id": 1,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Hồ Chí Minh",
+    "id": 2,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "An Giang",
+    "id": 3,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bà Rịa - Vũng Tàu",
+    "id": 4,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bạc Liêu",
+    "id": 5,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bắc Giang",
+    "id": 6,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bắc Kạn",
+    "id": 7,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bắc Ninh",
+    "id": 8,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bến Tre",
+    "id": 9,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bình Dương",
+    "id": 10,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bình Định",
+    "id": 11,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bình Phước",
+    "id": 12,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Bình Thuận",
+    "id": 13,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Cao Bằng",
+    "id": 14,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Cà Mau",
+    "id": 15,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "TP Cần Thơ",
+    "id": 16,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "TP Hải Phòng",
+    "id": 17,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "TP Đà Nẵng",
+    "id": 18,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  },
+  {
+    "place": "Tỉnh Gia Lai",
+    "id": 19,
+    "img": "https://dulich9.com/wp-content/uploads/2019/05/kinh-nghiem-du-lich-ha-noi-1.webp"
+  }
+]
