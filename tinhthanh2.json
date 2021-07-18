@@ -1,0 +1,27 @@
+[
+  {
+    "place": "Hà Nội",
+    "id": 1,
+    "img": "https://cdn.justfly.vn/600x400/media/db/87/da5a-092f-4c27-bc45-11d1c5ee6397.jpg"
+  },
+  {
+    "place": "Hồ Chí Minh",
+    "id": 2,
+    "img": "https://lh3.googleusercontent.com/proxy/yg3iW5s1KZoxAqvOYE-2HoXFE-QlsrfUAep76jsKo2BRocMKjGb-isNpcIj-yBU8zURRuzZz4Za91IN7M1m5nTrPlK77yeund2QHijP8gSrrdAl01sgjYI4hmGL9F-ZJ8gYVQLjv"
+  },
+  {
+    "place": "An Giang",
+    "id": 3,
+    "img": "https://godidigo.com/blog/wp-content/uploads/2019/05/mieu-ba-chua-xu-nui-sam.jpg"
+  },
+  {
+    "place": "Bà Rịa - Vũng Tàu",
+    "id": 4,
+    "img": "https://file.hstatic.net/1000324691/file/vi-tri-bai-sau-vung-tau_ae09d92308224c0c95c86c1aea1a116e_grande.jpg"
+  },
+  {
+    "place": "Bạc Liêu",
+    "id": 5,
+    "img": "https://lh3.googleusercontent.com/proxy/5ofN4_vdrnFle6Z1qgPhjt4QTMKJD0jHltIbPmXfUcVr9PK2k-1k90jzZjziE6Owb9xTjv768KJVW_eLgq_0OBmmUhoH-k_sGe3vxvBJKXlPXMX8XehP8kC18Ab02P-gnQgZSDYToRWyrJPIj6prYMaL_GVdUebK1wtwcTWTD8Uoi_2jtymDJWh09IUxXM36tBs6WrL-G33IOxGseKWL1Q"
+  }
+]
