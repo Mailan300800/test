@@ -1,0 +1,152 @@
+[
+  {
+    "place": "Hà Nội",
+    "id": 1,
+    "img": "https://drive.google.com/drive/folders/1bduEHbd-R7VY2niHRPrpkaTPGvEi5HM5"
+  },
+  {
+    "place": "Hồ Chí Minh",
+    "id": 2,
+    "img": "https://drive.google.com/drive/folders/1bduEHbd-R7VY2niHRPrpkaTPGvEi5HM5"
+  },
+  {
+    "place": "An Giang",
+    "id": 3,
+    "img": "https://drive.google.com/drive/folders/1bduEHbd-R7VY2niHRPrpkaTPGvEi5HM5"
+  },
+  {
+    "place": "Bà Rịa - Vũng Tàu",
+    "id": 4,
+    "img": "https://drive.google.com/drive/folders/1bduEHbd-R7VY2niHRPrpkaTPGvEi5HM5"
+  },
+  {
+    "place": "Bạc Liêu",
+    "id": 5,
+    "img": ""
+  },
+  {
+    "place": "Bắc Giang",
+    "id": 6,
+    "img": ""
+  },
+  {
+    "place": "Bắc Kạn",
+    "id": 7,
+    "img": ""
+  },
+  {
+    "place": "Bắc Ninh",
+    "id": 8,
+    "img": ""
+  },
+  {
+    "place": "Bến Tre",
+    "id": 9,
+    "img": ""
+  },
+  {
+    "place": "Bình Dương",
+    "id": 10,
+    "img": ""
+  },
+  {
+    "place": "Bình Định",
+    "id": 11,
+    "img": ""
+  },
+  {
+    "place": "Bình Phước",
+    "id": 12,
+    "img": ""
+  },
+  {
+    "place": "Bình Thuận",
+    "id": 13,
+    "img": ""
+  },
+  {
+    "place": "Cao Bằng",
+    "id": 14,
+    "img": ""
+  },
+  {
+    "place": "Cà Mau",
+    "id": 15,
+    "img": ""
+  },
+  {
+    "place": "TP Cần Thơ",
+    "id": 16,
+    "img": ""
+  },
+  {
+    "place": "TP Hải Phòng",
+    "id": 17,
+    "img": ""
+  },
+  {
+    "place": "TP Đà Nẵng",
+    "id": 18,
+    "img": ""
+  },
+  {
+    "place": "Gia Lai",
+    "id": 19,
+    "img": ""
+  },
+  {
+    "place": "Hòa Bình",
+    "id": 20,
+    "img": ""
+  },
+  {
+    "place": "Hà Giang",
+    "id": 21,
+    "img": ""
+  },
+  {
+    "place": "Hà Nam",
+    "id": 22,
+    "img": ""
+  },
+  {
+    "place": "Hà Tĩnh",
+    "id": 23,
+    "img": ""
+  },
+  {
+    "place": "Hưng Yên",
+    "id": 24,
+    "img": ""
+  },
+  {
+    "place": "Hải Dương",
+    "id": 25,
+    "img": ""
+  },
+  {
+    "place": "Hậu Giang",
+    "id": 26,
+    "img": ""
+  },
+  {
+    "place": "Điện Biên",
+    "id": 27,
+    "img": ""
+  },
+  {
+    "place": "Đắk Lắk",
+    "id": 28,
+    "img": ""
+  },
+  {
+    "place": "Đắk Nông",
+    "id": 29,
+    "img": ""
+  },
+  {
+    "place": "Đồng Nai",
+    "id": 30,
+    "img": ""
+  }
+]
